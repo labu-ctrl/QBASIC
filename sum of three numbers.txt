@@ -1,0 +1,7 @@
+CLS
+INPUT "Enter the first number:";a
+INPUT "Enter the second number:";b
+INPUT "Enter the third number:";c
+sum=a+b+c
+PRINT "Sum of the numbers is ";sum
+END
